@@ -1,0 +1,28 @@
+{
+  "name": "hexo-tag-webp",
+  "version": "1.0.0",
+  "description": "A tag to generate WebP format images from PNG files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexlibby/hexo-tag-webp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexlibby/hexo-tag-webp/issues"
+  },
+  "keywords": [
+    "hexo",
+    "webp",
+    "image",
+    "convert",
+    "png"
+  ],
+  "author": "Alex Libby <alibby571@gmail.com>",
+  "homepage": "https://github.com/alexlibby/hexo-tag-webp",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}

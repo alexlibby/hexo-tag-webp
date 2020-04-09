@@ -1,4 +1,4 @@
-# hexo-tag-webp 
+# hexo-tag-webp ![version](https://img.shields.io/badge/version-1.0.0-blue)
 > A [Hexo](https://hexo.io) tag plugin to generate WebP format images from PNG files 
 
 ## Install

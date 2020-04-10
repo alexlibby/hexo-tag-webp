@@ -19,7 +19,7 @@
   ],
   "author": "Alex Libby <alibby571@gmail.com>",
   "homepage": "https://github.com/alexlibby/hexo-tag-webp",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "dependencies": {
     "imagemin": "^7.0.1",
     "imagemin-webp": "^5.1.0",
